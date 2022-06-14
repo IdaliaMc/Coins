@@ -1,0 +1,4 @@
+fr\ayato\coins\commands\CommandCoins.class
+fr\ayato\coins\Main.class
+fr\ayato\coins\utils\Config.class
+fr\ayato\coins\coin\Coin.class

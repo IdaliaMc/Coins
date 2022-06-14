@@ -1,0 +1,16 @@
+coinFragment:
+    name: "§eFragment ancien"
+    lore:
+      - "§f➥ §e9 fragments anciens"
+      - "§f➥ §epermettent de crafter"
+      - "§f➥ §eune pièce antique"
+      - ""
+      - "§f⦁ §bRareté §f» §d✯"
+coin:
+    name: "§bPièce antique"
+    lore:
+      - "§f➥ §eLes pièces d'or"
+      - "§f➥ §es'échangent contre"
+      - "§f➥ §edes items spéciaux"
+      - ""
+      - "§f⦁ §bRareté §f» §d✯✯"

@@ -1,0 +1,7 @@
+name: Coins
+version: 1.0
+author: ayato__
+main: fr.ayato.coins.Main
+commands:
+  coins:
+    permissions: coins.use
