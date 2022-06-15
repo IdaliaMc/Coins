@@ -16,8 +16,6 @@ public class Coin {
         meta.setDisplayName(Config.getCoinFragmentName());
         meta.setLore(Config.getCoinFragmentLore());
         item.setItemMeta(meta);
-        item.addUnsafeEnchantment(Enchantment.DURABILITY, 1);
-        meta.addItemFlags(ItemFlag.HIDE_ENCHANTS);
         return item;
     }
 

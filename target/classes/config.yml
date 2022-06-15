@@ -1,9 +1,9 @@
 coinFragment:
-    name: "§eFragment ancien"
+    name: "§bFragment ancien"
     lore:
-      - "§f➥ §e9 fragments anciens"
-      - "§f➥ §epermettent de crafter"
-      - "§f➥ §eune pièce antique"
+      - "§f➥ §eLes fragments anciens"
+      - "§f➥ §es'échangent contre"
+      - "§f➥ §edes pièces antiques"
       - ""
       - "§f⦁ §bRareté §f» §d✯"
 coin:
